@@ -8,12 +8,11 @@ For me, it's really important to have a good work attitude. That means working h
 
 This programming journey of mine will showcase my projects, portfolio, and ideas from beginning to end. I would be happy if you could suggest improvements to my projects or point out my mistakes so that I can learn from them.
 
-## [This is my Portfolio][MySite]
+## [This is my Resume][MySite]
 
 [//]: <> (It,s just a Placeholder)
 
 Its this Site is still in the construction phase
 
-[MySite]: https://github.com/
+[MySite]: https://enrico-it.github.io/enrico-it-html/
 
-> "Das hier ist ein Zitat"
